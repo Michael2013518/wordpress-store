@@ -64,6 +64,6 @@ typings/
 .DS_store
 db/
 app/wp-content/uploads
-app/wp-content/demo
+#app/wp-content/demo
 
-app/wp-content/
+#app/wp-content/
